@@ -1,0 +1,12 @@
+*packages
+*LocalSettings
+*dist
+*.vs*
+.vs-code
+packages
+*obj
+*bin
+*.csproj.user
+*App_data
+*.DotSettings.user
+*.ncrunch*

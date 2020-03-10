@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29827.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SniWebJobDemo", "SniWebJobDemo\SniWebJobDemo.csproj", "{BE22F635-017B-4869-B706-455A8567372E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SniWebJobDemo.Data", "SniWebJobDemo.Data\SniWebJobDemo.Data.csproj", "{6C0EDC83-3FB3-4AAD-A2DD-1F4FCEA0E723}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE22F635-017B-4869-B706-455A8567372E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE22F635-017B-4869-B706-455A8567372E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE22F635-017B-4869-B706-455A8567372E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE22F635-017B-4869-B706-455A8567372E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C0EDC83-3FB3-4AAD-A2DD-1F4FCEA0E723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C0EDC83-3FB3-4AAD-A2DD-1F4FCEA0E723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C0EDC83-3FB3-4AAD-A2DD-1F4FCEA0E723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C0EDC83-3FB3-4AAD-A2DD-1F4FCEA0E723}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9380A740-84C0-4718-9F53-3627E3D96BFD}
+	EndGlobalSection
+EndGlobal
